@@ -1,0 +1,14 @@
+football-tactics-pro/
+├── src/
+│   ├── components/
+│   ├── canvas/
+│   ├── formation/
+│   ├── drawing/
+│   ├── players/
+│   ├── export/
+│   ├── storage/
+│   └── ui/
+├── public/
+├── package.json
+├── vite.config.ts
+└── README.md
